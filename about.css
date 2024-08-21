@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .index{
+            font-size: x-large;
+            color:chocolate;
+        }
+        .a1{
+            font-size: medium;
+            color:white;
+        }
+    </style>
+</head>
+<body bgcolor="brown">
+    <div class="index">
+        <h1>History</h1>
+        </div>
+        <div class="a1">
+        <p>Ayngaran Coffee (Kumbakonam Filter Coffee) was originally founded by entrepreneur, Mr.Ramachandran and Mr.Srinivasan. The first outlet was launched in Kumbakonam at Utchipillayar Kovil.</p>
+    <p>Ayngaran Coffee has since witnessed the launch another branch in the kumbakonam city. Ayngaran Coffee is located between Sarangapanai Temple, Utchipillayar Kovil, Ramasamy Temple and Athi Kumbeswarar Temple.</p>
+    </div>
+    <div class="index">
+        <h1>Vision</h1>
+    </div>
+    <div class="a1">
+        <p>We aim to serve the best Kumbakonam filter coffee to all coffee lovers. We strive to prove that having a cup of coffee with friends and family shouldn't be pretentious with unreasonable prices, fancy decor and mediocre snacks. To that end, we have established Ayngaran Coffee in two places like Utchipillaiyar Kovil and Opposite to Vasan eye care, Kumbakonam.
+        </p>
+    </div>
+    <div class="index">
+        <h1>Quality</h1>
+    </div>
+    <div class="a1">
+        <p>We offer the best Kumbakonam filter coffee and snacks. We never compromise on quality of the produces we use in our kitchen, we are very conscious about preparing for our customers in a hygienic manner.
+        </p>
+    </div>
+</body>
+</html>

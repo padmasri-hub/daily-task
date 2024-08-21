@@ -1,0 +1,236 @@
+A:active {
+	COLOR: #FF6600}
+A:active {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #731202}
+A:hover {
+	TEXT-DECORATION: none
+}
+.logo_bg {
+	BACKGROUND-IMAGE: url(tt_bg.gif); BACKGROUND-REPEAT: repeat-x
+}
+.bdy_top_bg {
+	BACKGROUND-IMAGE: url(bdy_strip.gif); BACKGROUND-REPEAT: repeat-x; HEIGHT: 8px
+}
+.text_bg {
+	BACKGROUND-IMAGE: url(bdy_cornerbg.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.link_bg {
+	BACKGROUND-IMAGE: url(link_bg.gif); HEIGHT: 157px
+}
+.sub_link_top {
+	BACKGROUND-IMAGE: url(sub_link_top.gif); BACKGROUND-REPEAT: repeat-x; HEIGHT: 20px
+}
+.links_Tit {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #266e63; LINE-HEIGHT: 25px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.sub_arrow {
+	PADDING-RIGHT: 5px; VERTICAL-ALIGN: top; PADDING-TOP: 9px
+}
+.link_arrow {
+	PADDING-RIGHT: 10px; TEXT-ALIGN: right
+}
+.t_links {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #266e63; LINE-HEIGHT: 25px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.body_links {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 21px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.body_links1 {
+	FONT-SIZE: 11px; COLOR: #4f4f4f; LINE-HEIGHT: 23px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.body_links2 {
+	PADDING-LEFT: 10px; FONT-SIZE: 11px; COLOR: #4f4f4f; LINE-HEIGHT: 14px; FONT-FAMILY: Tahoma
+}
+.copy {
+	FONT-SIZE: 11px; COLOR: #252525; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.text {
+	FONT-SIZE: 11px; COLOR: #616161; LINE-HEIGHT: 20px; FONT-FAMILY: Tahoma; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.textCopy {
+	FONT-SIZE: 11px; COLOR: #66cc66; LINE-HEIGHT: 20px; FONT-FAMILY: Tahoma; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.menu-bg {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(green_menu.jpg); BACKGROUND-REPEAT: repeat-x
+}
+.text-menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #ffffff; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.outbound {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(outbound.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.bluecolor {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(bluecolor.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.hand {
+	CURSOR: hand
+}
+.text-menuCopy {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana
+}
+.text-main {
+	FONT-SIZE: 12px; COLOR: #FFFFFF; LINE-HEIGHT: 22px; FONT-FAMILY: Tahoma; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.namebg1 {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(http://www.uditi.net/fulcrum/images/sharp-top.gif); BACKGROUND-REPEAT: no-repeat
+}
+.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #575757; FONT-FAMILY: tahoma
+}
+.vertical-line {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(line_vertical.gif); BACKGROUND-REPEAT: repeat-y
+}
+.bg-background {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(bg_back.jpg); BACKGROUND-REPEAT: repeat-x
+}
+.class1 B:hover {
+	COLOR: #749800; TEXT-DECORATION: none
+}
+.bg-background22 {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(back_22.jpg); BACKGROUND-REPEAT: repeat-x
+}
+.border {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid
+}
+.img-top {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(bg_back_top.jpg); BACKGROUND-REPEAT: repeat-x
+}
+.bg-background3 {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(bg_back_bg.jpg); BACKGROUND-REPEAT: repeat-y
+}
+.text-main-green {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #669900; LINE-HEIGHT: 18px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.text-mainCopy {
+	FONT-SIZE: 12px; COLOR: #ff9933; LINE-HEIGHT: 21px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.border-package {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px
+}
+.bg-top {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(http://www.uditi.net/fulcrum/images/top_bg.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.cross {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(cross.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.text-main22 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #FFFFFF; LINE-HEIGHT: 23px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.heading1 {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 12px;
+	COLOR: #ffffff;
+	FONT-FAMILY: Arial;
+	text-decoration: none;
+}
+.menus-side {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #E47B43; LINE-HEIGHT: 18px; FONT-FAMILY: tahoma; TEXT-DECORATION: none
+}
+.menus-sideCopy {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: tahoma; TEXT-DECORATION: none
+}
+.bg-top-border {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(border_top.gif); BACKGROUND-REPEAT: repeat-x
+}
+.bg-bottom-border {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(bg-bottom.gif); BACKGROUND-REPEAT: repeat-x
+}
+.border-left {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(boder_left.gif); BACKGROUND-REPEAT: repeat-y
+}
+.bg-borderright {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(bg_border_left.gif); BACKGROUND-REPEAT: repeat-y
+}
+.text22 {
+	FONT-SIZE: 11px; COLOR: #0099cc; LINE-HEIGHT: 18px; FONT-FAMILY: Tahoma; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.text22Copy {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #0099cc; LINE-HEIGHT: 18px; FONT-FAMILY: Tahoma; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.text-arial {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.text-arial-red {
+	FONT-SIZE: 10px; COLOR: #fc010d; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.arial-bold {
+	FONT-WEIGHT: bolder; FONT-SIZE: 18px; COLOR: #FFFF00; FONT-FAMILY: "Century Gothic"; TEXT-DECORATION: none
+}
+.arial-big {
+	FONT-SIZE: 20px; COLOR: #ffffff; FONT-FAMILY: Arial
+}
+.verdan_index {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.verdan_indexblack {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.verdan_index-bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.hori_line_dots {
+	BACKGROUND-POSITION: center center; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(hori_line.jpg); BACKGROUND-REPEAT: repeat-y
+}
+.arial-14 {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Calibri
+}
+.blue_bg {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: scroll; BACKGROUND-IMAGE: url(bg_blue_back.jpg); BACKGROUND-REPEAT: repeat-x
+}
+.horizontal_line {
+	BACKGROUND-POSITION: left center; BACKGROUND-ATTACHMENT: scroll; BACKGROUND-IMAGE: url(hori_line.jpg); BACKGROUND-REPEAT: repeat-y
+}
+.verdana-font {
+	FONT-SIZE: 10px; COLOR: #020202; FONT-FAMILY: Verdana
+}
+.greenhorizontal {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(green_verticalline.jpg); BACKGROUND-REPEAT: repeat-x
+}
+.graylinebg {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: scroll; BACKGROUND-IMAGE: url(gray_lines.jpg); BACKGROUND-REPEAT: repeat-x
+}
+.greenbg {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: scroll; BACKGROUND-IMAGE: url(green_line_bg.jpg); BACKGROUND-REPEAT: repeat-x
+}
+.text-main-orange {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ff9933; LINE-HEIGHT: 25px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.newfont {
+	FONT-SIZE: 10px; COLOR: #869115; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.border_left_right {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px
+}
+.taha_top {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #291500; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.verdana_menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #ffffff; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.arr {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #6b84c3; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.line_border {
+	BORDER-RIGHT: #e9e9e9 1px solid; BORDER-TOP: #e9e9e9 1px solid; BORDER-LEFT: #e9e9e9 1px solid; BORDER-BOTTOM: #e9e9e9 1px solid
+}
+.newwht {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.grntxt {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #1ea114; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.normalTxt {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 12px;
+	COLOR: #E5E5E5;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	line-height: 23px;
+}
+
+}
+.textra {
+	BORDER-RIGHT: #b8b8b8 1px solid; BORDER-TOP: #b8b8b8 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #b8b8b8 1px solid; BORDER-BOTTOM: #b8b8b8 1px solid; BACKGROUND-COLOR: #ffffff
+}
