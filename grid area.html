@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .parent{
+            display:grid;
+        
+            grid-template-columns: 10vh 70vh 10vh;
+            grid-template-rows: 10vh 20vh 80vh 20vh;
+            padding:10px;
+            grid-gap:10px;
+        }
+        .parent > div{
+                   display:grid;
+                   background-color: blue;
+                   justify-content: center;
+                   align-items: center;
+                   font-size:30px;
+
+        }
+        .header{
+            grid-area: h;
+        }
+
+        .main{
+            grid-area: m;
+        }
+        .menu{
+            grid-area: m1;
+        }
+        .right{
+            grid-area: r;
+        }
+        .footer{
+            grid-area:f;
+
+            
+        }
+        .parent{
+            grid-template-areas: 'h h'
+            'm1 m1 m m r'
+            'f f f';
+        }
+
+        
+    </style>
+</head>
+<body>
+    <div class="parent">
+        <div class="Header"></div>
+        <div class="main"></div>
+        <div class-="menu"></div>
+        <div class="footer"></div>
+        <div class="right"></div>
+    </div>
+</body>
+</html>
+background-size: 100% 300px;
+  background-repeat: no-repeat;
+  margin-left: 40px;
+  border:none;
+  margin-right: 20px;
+  background-size: 100% 300px;
+  background-repeat: no-repeat;
+  margin-left: 40px;
+  border:none;
+  margin-right: 20px;
+  text-align: left;
+  
